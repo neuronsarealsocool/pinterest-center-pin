@@ -1,6 +1,6 @@
 # Pinterest - Center Open Pin
 
-A Chrome userscript for Tampermonkey that moves an open Pinterest Pin toward the center of the screen, keeping related Pins visible around it.
+A Chrome userscript for Tampermonkey that moves an open Pinterest Pin toward the center of the screen, keeping related Pins visible around it. The script also attempts to autoplay, loop and unmute open video Pins. Chrome's autoplay settings can affect playback. Restart Chrome to check.
 
 ## Install
 
